@@ -68,8 +68,10 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/chamara-c-perera-04b2b3285/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="chamara-c-perera" height="50" width="50" /></a>
-<a href="https://www.facebook.com/profile.php?id=100040341138536&mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chamara C. Perera" height="50" width="50" /></a>
 <a href="https://instagram.com/chamara_c_perera" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="chamara_c_perera" height="50" width="50" /></a>
+<a href="https://x.com/chamarac2002" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="chamarac2002" height="50" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=100040341138536&mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chamara C. Perera" height="50" width="50" /></a>
+
 </p>
 
 ---
