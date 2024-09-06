@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **lccperera2002@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
   
 </td>
 <td width="50%" align="center">
