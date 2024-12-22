@@ -2,9 +2,9 @@
     <img width="100" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif">
 </p>
 <h1 align="center"> Hey, Developers 👋</h1>
-<h3 align="center">I’m Chamara C. Perera, an enthusiastic IT student passionate about technology, coding, and problem-solving. Currently pursuing my degree in Information Technology at SLIIT, I am keen on leveraging my skills to contribute to exciting projects and collaborate with the developer community.</h3>
+<h3 align="center">I’m Chamara Perera, an enthusiastic IT student passionate about technology, coding, and problem-solving. Currently pursuing my degree in Information Technology at SLIIT, I am keen on leveraging my skills to contribute to exciting projects and collaborate with the developer community.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chamarac2002&label=Profile%20views&color=0e75b6&style=flat" alt="chamarac2002" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chamara2002&label=Profile%20views&color=0e75b6&style=flat" alt="chamara2002" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -34,14 +34,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chamarac2002&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chamara2002&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chamarac2002&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chamara2002&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chamarac2002&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=1500"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chamara2002&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=1500"/>
   
   </td>
 </tr>
@@ -67,10 +67,10 @@
 </div>
 
 <p align="center">
-<a href="https://linkedin.com/in/chamara-c-perera-04b2b3285/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="chamara-c-perera" height="50" width="50" /></a>
-<a href="https://instagram.com/chamara_c_perera" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="chamara_c_perera" height="50" width="50" /></a>
-<a href="https://x.com/chamarac2002" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="chamarac2002" height="50" width="50" /></a>
-<a href="https://www.facebook.com/profile.php?id=100040341138536&mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chamara C. Perera" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/chamara-perera-04b2b3285/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="chamara-perera" height="50" width="50" /></a>
+<a href="https://instagram.com/chamara_2002_" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="chamara_2002" height="50" width="50" /></a>
+<a href="https://x.com/chamara_2002_" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="chamara_2002_" height="50" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=100040341138536&mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chamara Perera" height="50" width="50" /></a>
 
 </p>
 
