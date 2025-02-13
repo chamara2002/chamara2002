@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, Developers 👋</h1>
-<h3 align="center">I’m Chamara Perera, an enthusiastic IT student passionate about technology, coding, and problem-solving. Currently pursuing my degree in Information Technology at SLIIT, I am keen on leveraging my skills to contribute to exciting projects and collaborate with the developer community.</h3>
+<h3 align="center">I’m Chamara Perera, an enthusiastic IT Student and Trainee Software Engineer passionate about technology, coding, and problem-solving. Currently pursuing my degree in Information Technology at SLIIT, I am keen on leveraging my skills to contribute to exciting projects and collaborate with the developer community.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chamara2002&label=Profile%20views&color=0e75b6&style=flat" alt="chamara2002" /> </p>
 
