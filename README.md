@@ -9,8 +9,6 @@
 
 - 👨‍🎓 I'm an Undergraduate at **SLIIT**
 
-- 🌱 I’m currently learning **OOP with Java**
-
 - 📫 How to reach me **lccperera2002@gmail.com**
 
   
