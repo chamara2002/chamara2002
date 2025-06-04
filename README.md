@@ -51,6 +51,7 @@
   </ul>
 </div>
 <p align="center">
+  <img src="https://raw.github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50" style="pointer-events: none;" draggable="false" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50" style="pointer-events: none;" draggable="false" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="c" width="50" height="50" style="pointer-events: none;" draggable="false" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="cplusplus" width="50" height="50" style="pointer-events: none;" draggable="false" />
@@ -64,6 +65,8 @@
   <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50" style="pointer-events: none;" draggable="false" />
   <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/Scar1109/icons/Kotlin-Light.svg" alt="kotlin" width="50" height="50" style="pointer-events: none;" draggable="false" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Light.svg" alt="android studio" width="50" height="50" style="pointer-events: none;" draggable="false" />
+  <img src="https://raw.github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="50" height="50" style="pointer-events: none;" draggable="false" />
+  <img src="https://raw.github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" alt="opencv" width="50" height="50" style="pointer-events: none;" draggable="false" />
 </p>
 <!-- Connect with me -->
 <!--h2 without bottom border-->
