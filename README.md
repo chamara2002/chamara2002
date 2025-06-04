@@ -65,8 +65,8 @@
   <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50" style="pointer-events: none;" draggable="false" />
   <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/Scar1109/icons/Kotlin-Light.svg" alt="kotlin" width="50" height="50" style="pointer-events: none;" draggable="false" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Light.svg" alt="android studio" width="50" height="50" style="pointer-events: none;" draggable="false" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="linux" width="50" height="50" style="pointer-events: none;" draggable="false" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenCV-Dark.svg" alt="opencv" width="50" height="50" style="pointer-events: none;" draggable="false" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Light.svg" alt="linux" width="50" height="50" style="pointer-events: none;" draggable="false" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenCV-Light.svg" alt="opencv" width="50" height="50" style="pointer-events: none;" draggable="false" />
 </p>
 <!-- Connect with me -->
 <!--h2 without bottom border-->
