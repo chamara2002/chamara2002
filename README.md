@@ -51,20 +51,21 @@
   </ul>
 </div>
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50" style="pointer-events: none;" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50" style="pointer-events: none;" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50" style="pointer-events: none;" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50" style="pointer-events: none;" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50" style="pointer-events: none;" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50" style="pointer-events: none;" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50" style="pointer-events: none;" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/microsoftSQL.svg" alt="mssql" width="50" height="50" style="pointer-events: none;" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50" style="pointer-events: none;" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="photoshop" width="50" height="50" style="pointer-events: none;" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50" style="pointer-events: none;" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Kotlin-Light.svg" alt="kotlin" width="50" height="50" style="pointer-events: none;" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android studio" width="50" height="50" style="pointer-events: none;" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50" style="pointer-events: none;" draggable="false" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="c" width="50" height="50" style="pointer-events: none;" draggable="false" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="cplusplus" width="50" height="50" style="pointer-events: none;" draggable="false" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css3" width="50" height="50" style="pointer-events: none;" draggable="false" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="html5" width="50" height="50" style="pointer-events: none;" draggable="false" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" alt="java" width="50" height="50" style="pointer-events: none;" draggable="false" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="50" height="50" style="pointer-events: none;" draggable="false" />
+  <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/Scar1109/icons/microsoftSQL.svg" alt="mssql" width="50" height="50" style="pointer-events: none;" draggable="false" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50" style="pointer-events: none;" draggable="false" />
+  <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/Scar1109/icons/Photoshop.svg" alt="photoshop" width="50" height="50" style="pointer-events: none;" draggable="false" />
+  <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50" style="pointer-events: none;" draggable="false" />
+  <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/Scar1109/icons/Kotlin-Light.svg" alt="kotlin" width="50" height="50" style="pointer-events: none;" draggable="false" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Light.svg" alt="android studio" width="50" height="50" style="pointer-events: none;" draggable="false" />
 </p>
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
