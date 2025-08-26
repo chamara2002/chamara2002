@@ -78,8 +78,8 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/chamara-perera-04b2b3285/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="chamara-perera" height="50" width="50" /></a>
-<a href="https://instagram.com/chamara_2002_" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="chamara_2002" height="50" width="50" /></a>
-<a href="https://x.com/chamara.2002" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="chamara_2002_" height="50" width="50" /></a>
+<a href="https://instagram.com/chamara.2002" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="chamara_2002" height="50" width="50" /></a>
+<a href="https://x.com/chamara__2002" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="chamara__2002" height="50" width="50" /></a>
 <a href="https://www.facebook.com/profile.php?id=100040341138536&mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chamara Perera" height="50" width="50" /></a>
 
 </p>
