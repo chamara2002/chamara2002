@@ -9,7 +9,7 @@
 
 - 👨‍🎓 I'm an Undergraduate at **SLIIT**
 
-- 📫 How to reach me **lccperera2002@gmail.com**
+- 📫 Reach me on **lccperera2002@gmail.com**
 
   
 </td>
