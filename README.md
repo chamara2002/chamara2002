@@ -29,7 +29,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chamara2002&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://streak-stats.demolab.com?user=chamara2002&theme=dark&hide_border=false" />
   <br></br>
   <img  align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=chamara2002&theme=github-dark" /> 
 </td>
