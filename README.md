@@ -109,7 +109,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=chamara2002&theme=tokyonight&hide_border=true&background=00000000"/>
-    <img src="https://streak-stats.demolab.com?user=chamara2002&theme=default&hide_border=true&background=00000000" width="80%" alt="GitHub streak"/>
+    <img src="https://streak-stats.demolab.com?user=chamara2002&theme=default&hide_border=true&background=00000000" width="400" alt="GitHub streak"/>
   </picture>
 </p>
 
