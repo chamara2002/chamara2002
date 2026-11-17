@@ -77,14 +77,6 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
       - name: Generate code card
         run: |
           cat > /tmp/code_card.py <<'PYEOF'
@@ -169,6 +161,14 @@ jobs:
           print("done:", os.listdir(OUT))
           PYEOF
           python3 /tmp/code_card.py dist
+
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
