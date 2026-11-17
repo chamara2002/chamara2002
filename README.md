@@ -72,29 +72,28 @@
 <!-- ======================= TECH STACK ======================= -->
 <h2>Tech Stack</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <b>Languages</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,php&perline=7&theme=dark" alt="Languages"/>
-    </td>
-    <td align="center" width="50%">
-      <b>Web &amp; Mobile</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,androidstudio&theme=dark" alt="Web and Mobile"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Databases, Cloud &amp; Tools</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mysql,aws,linux,git,github,vscode&theme=dark" alt="Databases, Cloud and Tools"/><br/><br/>
-      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
-    </td>
-    <td align="center">
-      <b>ML, Vision &amp; Design</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=opencv,ps&theme=dark" alt="ML, Vision and Design"/>
-    </td>
-  </tr>
-</table>
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,php&theme=dark" alt="Languages"/>
+</p>
+
+<p align="center"><b>Web &amp; Mobile</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,androidstudio&theme=dark" alt="Web and Mobile"/>
+</p>
+
+<p align="center"><b>Databases, Cloud &amp; Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,aws,linux,git,github,vscode&theme=dark" alt="Databases, Cloud and Tools"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
+</p>
+
+<p align="center"><b>ML, Vision &amp; Design</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,ps&theme=dark" alt="ML, Vision and Design"/>
+</p>
 
 <br/>
 
@@ -102,13 +101,16 @@
 <h2>GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chamara2002/chamara2002/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Contributions, languages and stats"/>
+  <img src="https://raw.githubusercontent.com/chamara2002/chamara2002/main/profile-3d-contrib/profile-3d.svg" width="100%" alt="Contributions, languages and stats"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chamara2002&theme=tokyonight&hide_border=true" width="80%" alt="GitHub streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=chamara2002&theme=tokyonight&hide_border=true&background=00000000"/>
+    <img src="https://streak-stats.demolab.com?user=chamara2002&theme=default&hide_border=true&background=00000000" width="80%" alt="GitHub streak"/>
+  </picture>
 </p>
 
 <br/>
