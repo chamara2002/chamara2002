@@ -15,11 +15,56 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Write card settings (transparent background)
+        run: |
+          cat > /tmp/3d-settings.json <<'JSONEOF'
+          {
+            "type": "rainbow",
+            "fileName": "profile-3d.svg",
+            "backgroundColor": "transparent",
+            "foregroundColor": "#24292f",
+            "strongColor": "#d97706",
+            "weakColor": "#8c959f",
+            "radarColor": "#d97706",
+            "growingAnimation": true,
+            "saturation": "60%",
+            "contribLightness": [
+              "92%",
+              "75%",
+              "65%",
+              "55%",
+              "45%"
+            ],
+            "duration": "10s",
+            "hueRatio": -7,
+            "darkMode": {
+              "type": "rainbow",
+              "backgroundColor": "transparent",
+              "foregroundColor": "#e6edf3",
+              "strongColor": "rgb(255,200,55)",
+              "weakColor": "#8b949e",
+              "radarColor": "rgb(255,200,55)",
+              "growingAnimation": true,
+              "saturation": "50%",
+              "contribLightness": [
+                "20%",
+                "30%",
+                "35%",
+                "40%",
+                "50%"
+              ],
+              "duration": "10s",
+              "hueRatio": -7
+            }
+          }
+          JSONEOF
+
       - name: Generate 3D contribution and stats card
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: /tmp/3d-settings.json
 
       - name: Commit generated files
         run: |
@@ -163,11 +208,17 @@ jobs:
               [("const ", "#bb9af7"), ("chamara", "#7aa2f7"), (" = {", "#c0caf5")],
               [("  role", "#7dcfff"), (": ", "#c0caf5"), ('"IT Undergraduate @ SLIIT"', "#9ece6a"), (",", "#c0caf5")],
               [("  focus", "#7dcfff"), (": [", "#c0caf5"), ('"Full-Stack"', "#9ece6a"), (", ", "#c0caf5"), ('"ML"', "#9ece6a"), (", ", "#c0caf5"), ('"AWS"', "#9ece6a"), ("],", "#c0caf5")],
-              [("  project", "#7dcfff"), (": ", "#c0caf5"), ('"CattleSense"', "#9ece6a"), (",", "#c0caf5")],
+              [("  location", "#7dcfff"), (": ", "#c0caf5"), ('"Sri Lanka"', "#9ece6a"), (",", "#c0caf5")],
               [("  stack", "#7dcfff"), (": [", "#c0caf5"), ('"Python"', "#9ece6a"), (", ", "#c0caf5"), ('"Java"', "#9ece6a"), (", ", "#c0caf5"), ('"JS"', "#9ece6a"), ("],", "#c0caf5")],
               [("  learning", "#7dcfff"), (": ", "#c0caf5"), ('"MLOps & System Design"', "#9ece6a"), (",", "#c0caf5")],
               [("  passion", "#7dcfff"), (": ", "#c0caf5"), ('"Problem Solving"', "#9ece6a"), (",", "#c0caf5")],
               [("};", "#c0caf5")],
+              [],
+              [("function ", "#bb9af7"), ("dailyRoutine", "#7aa2f7"), ("() {", "#c0caf5")],
+              [("  while ", "#bb9af7"), ("(", "#c0caf5"), ("curious", "#e0af68"), (") {", "#c0caf5")],
+              [("    learn", "#7aa2f7"), ("(); ", "#c0caf5"), ("build", "#7aa2f7"), ("(); ", "#c0caf5"), ("deploy", "#7aa2f7"), ("();", "#c0caf5")],
+              [("  }", "#c0caf5")],
+              [("}", "#c0caf5")],
               [],
               [("chamara", "#7aa2f7"), (".", "#c0caf5"), ("build", "#7dcfff"), ("(", "#c0caf5"), ('"something great"', "#9ece6a"), (");", "#c0caf5")],
           ]
@@ -176,11 +227,11 @@ jobs:
               return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
           def code_svg():
-              W, H, CH, LH, X0, Y0 = 480, 300, 7.8, 22, 46, 70
-              typing, gap, hold = 0.9, 0.25, 4.0
+              W, H, CH, LH, X0, Y0 = 480, 500, 8.4, 26, 50, 78
+              typing, gap, hold = 0.7, 0.2, 4.0
               total = len(CODE) * (typing + gap) + hold
               o = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" '
-                   f'font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">',
+                   f'font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">',
                    '<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">'
                    '<stop offset="0" stop-color="#0f2027"/><stop offset=".5" stop-color="#203a43"/>'
                    '<stop offset="1" stop-color="#2c5364"/></linearGradient></defs>',
@@ -200,7 +251,7 @@ jobs:
                   w = chars * CH + 4
                   start = i * (typing + gap)
                   a, b = start / total, (start + typing) / total
-                  o.append(f'<clipPath id="c{i}"><rect x="{X0}" y="{y-15}" height="20" width="0">'
+                  o.append(f'<clipPath id="c{i}"><rect x="{X0}" y="{y-16}" height="22" width="0">'
                            f'<animate attributeName="width" dur="{total:.2f}s" repeatCount="indefinite" '
                            f'keyTimes="0;{a:.4f};{b:.4f};0.97;1" values="0;0;{w:.1f};{w:.1f};0"/></rect></clipPath>')
                   spans = "".join(f'<tspan fill="{c}">{esc(t)}</tspan>' for t, c in toks)
@@ -210,12 +261,12 @@ jobs:
               for i, toks in enumerate(CODE):
                   chars = sum(len(t) for t, _ in toks)
                   start = i * (typing + gap)
-                  y = Y0 + i * LH - 12
+                  y = Y0 + i * LH - 13
                   for tt, xx in ((start, 0), (start + typing, chars * CH)):
                       kts.append(tt / total); xs.append(f"{X0 + xx + 1:.1f}"); ys.append(str(y))
               kts = [0.0] + kts[1:] + [1.0]; xs.append(xs[-1]); ys.append(ys[-1])
               kt = ";".join(f"{k:.4f}" for k in kts)
-              o.append(f'<rect width="2" height="15" fill="#38bdf8">'
+              o.append(f'<rect width="2" height="17" fill="#38bdf8">'
                        f'<animate attributeName="x" dur="{total:.2f}s" repeatCount="indefinite" keyTimes="{kt}" values="{";".join(xs)}"/>'
                        f'<animate attributeName="y" dur="{total:.2f}s" repeatCount="indefinite" calcMode="discrete" keyTimes="{kt}" values="{";".join(ys)}"/>'
                        f'<animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;.5;.5;1" calcMode="discrete"/></rect>')
